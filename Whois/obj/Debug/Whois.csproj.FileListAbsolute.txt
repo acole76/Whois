@@ -1,0 +1,12 @@
+c:\code\Whois\Whois\bin\Debug\Whois.exe.config
+c:\code\Whois\Whois\bin\Debug\Whois.exe
+c:\code\Whois\Whois\bin\Debug\Whois.pdb
+c:\code\Whois\Whois\obj\Debug\Whois.csprojResolveAssemblyReference.cache
+c:\code\Whois\Whois\obj\Debug\Whois.exe
+c:\code\Whois\Whois\obj\Debug\Whois.pdb
+D:\code\Whois\Whois\bin\Debug\Whois.exe.config
+D:\code\Whois\Whois\obj\Debug\Whois.exe
+D:\code\Whois\Whois\obj\Debug\Whois.pdb
+D:\code\Whois\Whois\bin\Debug\Whois.exe
+D:\code\Whois\Whois\bin\Debug\Whois.pdb
+D:\code\Whois\Whois\obj\Debug\Whois.csprojResolveAssemblyReference.cache
